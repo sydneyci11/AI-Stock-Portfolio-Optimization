@@ -14,6 +14,7 @@ This project utilizes **Artificial Intelligence techniques** to optimize investm
 │── 📂 TW50_Index/  # TW50 index sample data
 │   ├── TAI50I-2010-01_edited.csv # Cleaned TW50 index data for Jan 2010
 ├── Stock_Categories.csv  # Categorization of stocks by industry
+├── Categorized_Stock.csv  # Categorization of stocks by industry for final filtered stocks 
 ├── Top_20_Cov_Matrix.csv  # Covariance matrix for top 20 stocks
 ├── Top_20_Filtered_DataSet.csv  # Filtered dataset of the top 20 stocks
 │
